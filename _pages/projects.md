@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Selected Undergraduate Coursework Projects
+description: Selected Projects
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Undergraduate Coursework, others]
 horizontal: false
 ---
 
