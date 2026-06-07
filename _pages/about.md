@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-
+  
 profile:
   align: right
   image: image_cat.jpg
