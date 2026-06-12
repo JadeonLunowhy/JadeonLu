@@ -36,6 +36,8 @@ My research interests lie in <span style="color: #b916b0;"><strong>Computer Visi
 
 - <span style="color: #b916b0;"><strong>Frequency-Domain Analysis</strong></span>
 
+- <span style="color: #b916b0;"><strong>One step T2I</strong></span>
+
 I am interested in understanding how visual information is represented and transformed in the frequency space, especially the roles of low-frequency structure and high-frequency details in generated images.
 
 ## Timeline
